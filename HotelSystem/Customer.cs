@@ -46,7 +46,7 @@ namespace HotelBillingSystem
 
         public override double getCost()
         {
-            return base.getxcxCost()+2000;
+            return base.getCost()+2000;
         }
 
     }
